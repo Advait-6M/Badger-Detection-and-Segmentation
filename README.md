@@ -4,7 +4,7 @@ A pipeline for automatically detecting and cropping badger images from video foo
 
 ## Overview
 
-This pipeline extracts frames from videos and uses SpeciesNet to detect badgers, automatically cropping them for further analysis or re-identification tasks.
+This pipeline extracts frames from videos and uses SpeciesNet to detect badgers, automatically cropping them for further analysis or re-identification tasks. The SpeciesNet model is fine-tuned using manual annotated badger images.
 
 ## Features
 
