@@ -1,6 +1,6 @@
 # Badger Cropping Pipeline
 
-A pipeline for automatically detecting and cropping badger images from video footage using SpeciesNet.
+A pipeline for automatically detecting and cropping badger images from video footage by fine-tuning deep learning model.
 
 ## Overview
 
