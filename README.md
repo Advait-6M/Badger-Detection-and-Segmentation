@@ -67,3 +67,10 @@ Key parameters:
 
 Cropped badger images saved to specified output directory with naming convention:
 `cropped_{video_name}_frame{frame_number}_det{detection_number}.jpg` 
+
+https://github.com/user-attachments/assets/52499a14-59cd-4f55-bfc0-4f3fdf3da619
+
+
+
+### Badger Detection Test Video
+
